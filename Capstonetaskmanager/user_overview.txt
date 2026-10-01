@@ -1,0 +1,86 @@
+Total users: 12
+Total tasks: 7
+
+User: admin
+Total tasks assigned: 2
+% of total tasks: 28.57%
+% completed: 0.00%
+% incomplete: 100.00%
+% overdue: 0.00%
+
+User: ntando
+Total tasks assigned: 5
+% of total tasks: 71.43%
+% completed: 0.00%
+% incomplete: 100.00%
+% overdue: 0.00%
+
+User: alpha
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: me
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: meee
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: third test
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: the
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: me gain
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: me toooo
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: ghj
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: ntttando
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
+
+User: ntando tester
+Total tasks assigned: 0
+% of total tasks: 0.00%
+% completed: 0.00%
+% incomplete: 0.00%
+% overdue: 0.00%
